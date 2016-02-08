@@ -62,7 +62,8 @@ describe('Exercise One Math Library', function() {
     it('Should multiply -1 and -1', function() {
       expect(mathing.multiply(-1, -1)).to.equal(1);
     });
-  });
 
+  });
+  
 
 });
